@@ -1,2 +1,2 @@
 # Python for beginner
-Send homework ka
+Send homework
